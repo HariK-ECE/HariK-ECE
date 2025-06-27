@@ -11,7 +11,7 @@ An aspiring Electronics and Communications Engineer with a strong foundation in 
 * **VIT Bhopal University**
     * Bachelor of Technology, Electronics and Communication Engineering
     * CGPA: 7.92/10
-    * Oct 2022 - June 2024
+    * Oct 2022 - June 2026
 
 * **Gowtham Junior College**
     * Board of Intermediate Education (AP) Class 12, Percentage: 86.7
