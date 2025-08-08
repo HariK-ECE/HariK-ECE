@@ -2,7 +2,7 @@
 
 *Electronics and Communication Engineering Student | Embedded Systems | VLSI | FPGA Enthusiast*
 
-📍 Bhopal, Madhya Pradesh  
+📍 VIT Bhopal University, Madhya Pradesh  
 📧 katherapallihari@gmail.com  
 📱 +91 6303711813  
 🔗 [LinkedIn](https://www.linkedin.com/in/hari02/)
@@ -54,5 +54,3 @@
 - *Hobbies*: Learning new skills, Playing games
 
 ---
-
-> 🚀 Passionate about building smart embedded systems, and eager to explore opportunities in VLSI and FPGA-based design.
