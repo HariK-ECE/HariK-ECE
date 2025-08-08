@@ -1,68 +1,58 @@
 # Hari Prasad Reddy K
 
-[LinkedIn](https://www.linkedin.com/in/hari02/) | [Email](mailto:katherapallihari@gmail.com) | +91 6303711813
+*Electronics and Communication Engineering Student | Embedded Systems | VLSI | FPGA Enthusiast*
 
-An aspiring Electronics and Communications Engineer with a strong foundation in hardware and software development. Eager to apply technical skills in Python and MATLAB to innovative projects, with a focus on automation and embedded systems.
-
----
-
-## Education
-
-* **VIT Bhopal University**
-    * Bachelor of Technology, Electronics and Communication Engineering
-    * CGPA: 7.92/10
-    * Oct 2022 - June 2026
-
-* **Gowtham Junior College**
-    * Board of Intermediate Education (AP) Class 12, Percentage: 86.7
-    * June 2020 - April 2022
-
-* **Montessori EM High School**
-    * Board of Secondary Education (AP) Class 10 (SSC), Percentage: 98.8
-    * June 2019 - April 2020
+📍 Bhopal, Madhya Pradesh  
+📧 katherapallihari@gmail.com  
+📱 +91 6303711813  
+🔗 [LinkedIn](https://www.linkedin.com/in/hari02/)
 
 ---
 
-## Technical Skills
+## 🔧 Technical Skills
 
-* **Programming Languages:** Python, MATLAB
-* **Certifications:**
-    * Digital Signal Processing (VITyarthi)
-    * Applied Machine Learning (Coursera)
-    * Simulink Onramp (MATLAB)
+- *Languages*: Verilog HDL, Python, VLSI
+- *Developer Tools*: Arduino IDE, Tinkercad, LTspice, Multisim, MATLAB/Simulink
+- *Frameworks/Technologies*: ModelSim, Intel Quartus, RTL Viewer, Git, MATLAB
 
 ---
 
-## Projects
+## 📁 Featured Projects
 
-### **Wireless Home Automation System (Hardware + Software)**
-* **Description:** Enabled automated control of home appliances using Arduino Nano, HC05 Bluetooth module, and a 4-channel relay module. Users can remotely operate and schedule devices, enhancing convenience and energy efficiency.
-* **Technology:** Arduino Nano, HC05 Bluetooth Module, 4-Channel Relay Module
-* **Role:** Designed a prototype circuit using all the components.
-* **Date:** November 2024
+### 🔌 Wireless Home Automation System  
+*Tech Stack*: Arduino Nano, HC05 Bluetooth, 4-Channel Relay Module  
+- Built a Bluetooth-controlled system to manage and schedule home appliances remotely.
+- Integrated Arduino Nano with relay modules and mobile Bluetooth for real-time switching.
+- Improved energy efficiency and automation through mobile communication.
 
-### **Library Companion (Hardware + Software)**
-* **Description:** Developed a library companion robot equipped with Raspberry Pi, RFID technology, and a gripper system. This robot autonomously retrieves books, eliminating the need for manual intervention and streamlining the borrowing process.
-* **Technology:** Raspberry Pi, RFID, Gripper system
-* **Role:** Focused on the line following mechanism and checking RFID.
-* **Date:** March 2024
-
-### **Automatic Street Light (Hardware + Software)**
-* **Description:** Designed a system where streetlights glow automatically according to a pre-set time and light dependency, without manual work.
-* **Technology:** Arduino, LDR, RTC module, Relay Module
-* **Role:** Designed a prototype circuit using all the components.
-* **Date:** November 2023
+### 📡 SPI Protocol Design using Verilog on FPGA  
+*Tech Stack*: Verilog HDL, Model-Sim, Xilinx Vivado, FPGA  
+- Designed and implemented SPI protocol for reliable master-slave communication.
+- Achieved 100% accuracy and stable 10 MHz data transfer with zero transmission errors.
+- Optimized RTL logic to reduce gate count by 25%, enhancing SoC integration efficiency.
 
 ---
 
-## Extra-Curricular and Achievements
+## 📜 Certifications
 
-* Core Member of Cooking & Feasting club; Organized multiple events.
-* Participated in a National Kabaddi tournament, playing a main role in the game.
+- VLSI Design – Maven Silicon  
+- Embedded Systems – Maven Silicon  
+- Applied Machine Learning in Python – University of Michigan (Coursera)
 
 ---
 
-## Additional Information
+## 🏆 Extra-Curricular Activities
 
-* **Hobbies:** Learning New Skills, Playing Games, Reading Books
-* **Languages:** English (Fluent), Telugu (Fluent), Hindi (Beginner)
+- Core Member – *Cooking & Feasting Club*, VIT Bhopal University  
+- National-level Kabaddi Player – Played main role in tournament matches
+
+---
+
+## 📌 Additional Info
+
+- *Languages*: English, Telugu, Hindi  
+- *Hobbies*: Learning new skills, Playing games
+
+---
+
+> 🚀 Passionate about building smart embedded systems, and eager to explore opportunities in VLSI and FPGA-based design.
